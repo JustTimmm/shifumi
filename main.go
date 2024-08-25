@@ -9,8 +9,8 @@ func main() {
 		student bool
 	)
 
-	age = 15
-	name = "Timéo"
+	age = 50
+	name = "Jone"
 	student = true
 
 	fmt.Printf("Bonjour je suis %v ", name)
